@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ubahsecoh.potsdamer-instrumentalisten.de/sitemap.xml
